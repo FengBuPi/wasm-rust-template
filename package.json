@@ -1,0 +1,16 @@
+{
+	"name": "wasm-rust-template",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite"
+	},
+	"dependencies": {
+		"vite": "^5.4.9",
+		"vite-plugin-wasm": "^3.3.0"
+	},
+	"devDependencies": {
+		"@types/node": "^22.7.6"
+	}
+}
